@@ -1,5 +1,5 @@
 public class Calculator {
-	private static final int BONUS = 2;
+	private static final int BONUS = 5;
     // Calculeaza suma a doua numere
     public int aduna(int a, int b) {
         // Temporar, adunam si un bonus
